@@ -1,6 +1,8 @@
-import logic.*;
+package logic;
 
-public class MainLogic {
+import logic.logic01.*;
+
+public class MainLogic01 {
     public static void main(String[] args) {
         System.out.println("Logic 01 Soal 01");
         Logic01Soal01 logic01Soal01 = new Logic01Soal01(9);
