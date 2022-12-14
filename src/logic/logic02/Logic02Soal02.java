@@ -19,7 +19,6 @@ public class Logic02Soal02 extends BasicLogic {
         }
     }
 
-
     public void cetakArray(){
         this.isiArray();
         this.print();
