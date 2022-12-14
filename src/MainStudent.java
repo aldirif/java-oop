@@ -4,5 +4,7 @@ public class MainStudent {
                 "Yogyakarta",20,"Teknik Informatika",1234);
 
         System.out.println(student1);
+        student1.sayHello();
     }
 }
+
